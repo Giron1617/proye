@@ -10,6 +10,7 @@ function App() {
     <>
       <div style={{background: "blue"}}>
         <h1>giron</h1>
+        <h1>juan esteban</h1>
         <a href="https://vitejs.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
         </a>
